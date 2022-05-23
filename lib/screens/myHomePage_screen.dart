@@ -30,7 +30,9 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text("You have pushed the button this many times: ${context.watch<Counter>().count} "),
+            const SizedBox(height: 10),
             const Count(),
+            const SizedBox(height: 10),
             ElevatedButton(
               onPressed: () {
                 Navigator.pushNamed(context, '/second');
