@@ -16,3 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/58510288/169792052-d32ab373-2ea9-4dbd-b504-e29f90782fa9.gif)
+
+![shoppingcart](https://user-images.githubusercontent.com/58510288/169795842-ab1013ce-e1c0-4ff8-bda8-e060ae693a2c.gif)
